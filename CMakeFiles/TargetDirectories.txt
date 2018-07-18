@@ -1,0 +1,3 @@
+/home/victor/bigproject/openni2_viewer2/CMakeFiles/edit_cache.dir
+/home/victor/bigproject/openni2_viewer2/CMakeFiles/rebuild_cache.dir
+/home/victor/bigproject/openni2_viewer2/CMakeFiles/openni2_viewer.dir
